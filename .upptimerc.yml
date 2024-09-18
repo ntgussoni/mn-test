@@ -1,26 +1,21 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: ntgussoni # Your GitHub organization or username, where this repository lives
+repo: mn-test # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-
+  - name: ntorres.dev
+    url: https://ntorres.dev
+  - name: ntorres.dev
+    url: https://ntorres.dev
+  - name: bedtimefable
+    url: https://bedtimefable.ai
+  - name: mh
+    url: https://www.maidofhonorspeech.net
+  - name: htbbm
+    url: https://www.howtobebestman.com
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  baseUrl: /mn-test # where "repo" is your repository name
+  name: Your Status Website
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
