@@ -5,8 +5,8 @@ repo: mn-test # The name of this repository
 sites:
   - name: ntorres.dev
     url: https://ntorres.dev
-  - name: ntorres.dev
-    url: https://ntorres.dev
+  - name: bedtimefable.com
+    url: https://bedtimefable.com
   - name: bedtimefable
     url: https://bedtimefable.ai
   - name: mh
