@@ -90,9 +90,9 @@
     "slug": "htbbm",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 676,
     "timeDay": 736,
@@ -100,7 +100,6 @@
     "timeMonth": 701,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2025-09-29": 7,
       "2025-06-05": 19
     }
   }
