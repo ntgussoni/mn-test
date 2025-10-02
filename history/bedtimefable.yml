@@ -1,7 +1,7 @@
 url: https://bedtimefable.ai
-status: up
-code: 200
-responseTime: 1507
-lastUpdated: 2025-10-01T23:04:37.299Z
+status: down
+code: 503
+responseTime: 1056
+lastUpdated: 2025-10-02T06:44:10.714Z
 startTime: 2024-09-18T10:47:40.410Z
 generator: Upptime <https://github.com/upptime/upptime>
