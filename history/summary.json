@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 631,
-    "timeDay": 614,
-    "timeWeek": 496,
-    "timeMonth": 766,
+    "timeDay": 436,
+    "timeWeek": 504,
+    "timeMonth": 581,
     "timeYear": 630,
     "dailyMinutesDown": {
       "2024-10-20": 588,
@@ -30,16 +30,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.82%",
     "time": 284,
-    "timeDay": 150,
-    "timeWeek": 302,
-    "timeMonth": 334,
-    "timeYear": 284,
+    "timeDay": 261,
+    "timeWeek": 305,
+    "timeMonth": 333,
+    "timeYear": 285,
     "dailyMinutesDown": {
       "2025-08-31": 60,
-      "2025-08-29": 20,
-      "2024-10-02": 891
+      "2025-08-29": 20
     }
   },
   {
@@ -48,19 +47,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bedtimefable.ai.ico",
     "slug": "bedtimefable",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
+    "uptimeYear": "99.81%",
     "time": 1411,
-    "timeDay": 1499,
-    "timeWeek": 1345,
-    "timeMonth": 1339,
-    "timeYear": 1406,
+    "timeDay": 1507,
+    "timeWeek": 1367,
+    "timeMonth": 1344,
+    "timeYear": 1413,
     "dailyMinutesDown": {
-      "2025-06-14": 32,
-      "2024-10-02": 1007
+      "2025-06-14": 32
     }
   },
   {
@@ -75,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 753,
-    "timeDay": 789,
-    "timeWeek": 4397,
-    "timeMonth": 1589,
+    "timeDay": 730,
+    "timeWeek": 747,
+    "timeMonth": 1592,
     "timeYear": 759,
     "dailyMinutesDown": {}
   },
@@ -93,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 676,
-    "timeDay": 756,
-    "timeWeek": 727,
-    "timeMonth": 709,
+    "timeDay": 711,
+    "timeWeek": 718,
+    "timeMonth": 711,
     "timeYear": 679,
     "dailyMinutesDown": {
       "2025-06-05": 19
