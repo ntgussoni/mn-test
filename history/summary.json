@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 629,
-    "timeDay": 445,
-    "timeWeek": 573,
-    "timeMonth": 542,
+    "timeDay": 476,
+    "timeWeek": 548,
+    "timeMonth": 538,
     "timeYear": 628,
     "dailyMinutesDown": {
       "2024-10-20": 588,
@@ -27,17 +27,16 @@
     "slug": "bedtimefable-com",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 284,
-    "timeDay": 263,
-    "timeWeek": 286,
-    "timeMonth": 333,
+    "timeDay": 281,
+    "timeWeek": 300,
+    "timeMonth": 327,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2025-10-11": 6,
       "2025-08-31": 60,
       "2025-08-29": 20
     }
@@ -53,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1456,
-    "timeDay": 1331,
-    "timeWeek": 3499,
-    "timeMonth": 1922,
-    "timeYear": 1464,
+    "time": 1455,
+    "timeDay": 1189,
+    "timeWeek": 3461,
+    "timeMonth": 1912,
+    "timeYear": 1465,
     "dailyMinutesDown": {
       "2025-06-14": 32
     }
@@ -74,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 753,
-    "timeDay": 629,
-    "timeWeek": 771,
-    "timeMonth": 1598,
+    "timeDay": 682,
+    "timeWeek": 750,
+    "timeMonth": 1593,
     "timeYear": 761,
     "dailyMinutesDown": {}
   },
@@ -92,10 +91,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 677,
-    "timeDay": 615,
-    "timeWeek": 760,
-    "timeMonth": 735,
-    "timeYear": 680,
+    "timeDay": 639,
+    "timeWeek": 741,
+    "timeMonth": 732,
+    "timeYear": 681,
     "dailyMinutesDown": {
       "2025-06-05": 19
     }
