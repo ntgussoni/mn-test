@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.75%",
-    "time": 627,
-    "timeDay": 568,
-    "timeWeek": 515,
-    "timeMonth": 524,
-    "timeYear": 625,
-    "dailyMinutesDown": {
-      "2024-10-20": 588
-    }
+    "uptimeYear": "99.89%",
+    "time": 626,
+    "timeDay": 535,
+    "timeWeek": 516,
+    "timeMonth": 518,
+    "timeYear": 626,
+    "dailyMinutesDown": {}
   },
   {
     "name": "bedtimefable.com",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 287,
-    "timeDay": 725,
-    "timeWeek": 438,
-    "timeMonth": 346,
+    "timeDay": 272,
+    "timeWeek": 437,
+    "timeMonth": 339,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2025-08-31": 60,
@@ -46,16 +44,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bedtimefable.ai.ico",
     "slug": "bedtimefable",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1452,
-    "timeDay": 1431,
-    "timeWeek": 1258,
-    "timeMonth": 1897,
-    "timeYear": 1463,
+    "timeDay": 1512,
+    "timeWeek": 1286,
+    "timeMonth": 1895,
+    "timeYear": 1462,
     "dailyMinutesDown": {
       "2025-06-14": 32
     }
@@ -72,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 751,
-    "timeDay": 805,
-    "timeWeek": 666,
-    "timeMonth": 1577,
+    "timeDay": 793,
+    "timeWeek": 690,
+    "timeMonth": 1571,
     "timeYear": 759,
     "dailyMinutesDown": {}
   },
@@ -90,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 677,
-    "timeDay": 784,
-    "timeWeek": 681,
-    "timeMonth": 725,
+    "timeDay": 779,
+    "timeWeek": 700,
+    "timeMonth": 717,
     "timeYear": 680,
     "dailyMinutesDown": {
       "2025-06-05": 19
