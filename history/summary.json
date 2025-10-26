@@ -63,10 +63,10 @@
     "url": "https://www.maidofhonorspeech.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.maidofhonorspeech.net.ico",
     "slug": "mh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 751,
@@ -74,16 +74,18 @@
     "timeWeek": 716,
     "timeMonth": 718,
     "timeYear": 761,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-26": 2
+    }
   },
   {
     "name": "htbbm",
     "url": "https://www.howtobebestman.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.howtobebestman.com.ico",
     "slug": "htbbm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,6 +95,7 @@
     "timeMonth": 705,
     "timeYear": 681,
     "dailyMinutesDown": {
+      "2025-10-26": 0,
       "2025-06-05": 19
     }
   }
