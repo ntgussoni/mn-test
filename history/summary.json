@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 625,
-    "timeDay": 428,
-    "timeWeek": 524,
-    "timeMonth": 523,
-    "timeYear": 623,
+    "timeDay": 620,
+    "timeWeek": 536,
+    "timeMonth": 528,
+    "timeYear": 622,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 302,
-    "timeDay": 372,
-    "timeWeek": 919,
-    "timeMonth": 515,
+    "timeDay": 294,
+    "timeWeek": 921,
+    "timeMonth": 514,
     "timeYear": 305,
     "dailyMinutesDown": {
       "2025-08-31": 60,
@@ -50,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1448,
-    "timeDay": 981,
-    "timeWeek": 1229,
-    "timeMonth": 1865,
-    "timeYear": 1463,
+    "timeDay": 1434,
+    "timeWeek": 1218,
+    "timeMonth": 1866,
+    "timeYear": 1462,
     "dailyMinutesDown": {
       "2025-06-14": 32
     }
@@ -65,18 +65,16 @@
     "slug": "mh",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 750,
-    "timeDay": 577,
-    "timeWeek": 703,
-    "timeMonth": 714,
+    "time": 751,
+    "timeDay": 758,
+    "timeWeek": 717,
+    "timeMonth": 715,
     "timeYear": 760,
-    "dailyMinutesDown": {
-      "2025-10-26": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "htbbm",
@@ -85,17 +83,16 @@
     "slug": "htbbm",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 677,
-    "timeDay": 570,
-    "timeWeek": 675,
-    "timeMonth": 700,
+    "timeDay": 703,
+    "timeWeek": 686,
+    "timeMonth": 703,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2025-10-26": 3,
       "2025-06-05": 19
     }
   }
