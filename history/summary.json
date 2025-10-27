@@ -6,18 +6,16 @@
     "slug": "ntorres-dev",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 625,
     "timeDay": 637,
     "timeWeek": 561,
     "timeMonth": 535,
     "timeYear": 622,
-    "dailyMinutesDown": {
-      "2025-10-27": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "bedtimefable.com",
@@ -68,27 +66,25 @@
     "slug": "mh",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 751,
     "timeDay": 875,
     "timeWeek": 746,
     "timeMonth": 724,
     "timeYear": 761,
-    "dailyMinutesDown": {
-      "2025-10-27": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "htbbm",
     "url": "https://www.howtobebestman.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.howtobebestman.com.ico",
     "slug": "htbbm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -98,6 +94,7 @@
     "timeMonth": 706,
     "timeYear": 681,
     "dailyMinutesDown": {
+      "2025-10-27": 0,
       "2025-06-05": 19
     }
   }
