@@ -64,19 +64,19 @@
     "url": "https://www.maidofhonorspeech.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.maidofhonorspeech.net.ico",
     "slug": "mh",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 751,
-    "timeDay": 758,
-    "timeWeek": 717,
-    "timeMonth": 715,
-    "timeYear": 760,
+    "timeDay": 795,
+    "timeWeek": 734,
+    "timeMonth": 720,
+    "timeYear": 761,
     "dailyMinutesDown": {
-      "2025-10-27": 0
+      "2025-10-27": 6
     }
   },
   {
