@@ -4,9 +4,9 @@
     "url": "https://ntorres.dev",
     "icon": "https://icons.duckduckgo.com/ip3/ntorres.dev.ico",
     "slug": "ntorres-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 536,
     "timeMonth": 528,
     "timeYear": 622,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-27": 0
+    }
   },
   {
     "name": "bedtimefable.com",
@@ -66,18 +68,16 @@
     "slug": "mh",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 751,
-    "timeDay": 795,
+    "timeDay": 886,
     "timeWeek": 734,
     "timeMonth": 720,
     "timeYear": 761,
-    "dailyMinutesDown": {
-      "2025-10-27": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "htbbm",
@@ -91,7 +91,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 678,
-    "timeDay": 733,
+    "timeDay": 828,
     "timeWeek": 698,
     "timeMonth": 706,
     "timeYear": 681,
