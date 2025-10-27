@@ -45,17 +45,17 @@
     "slug": "bedtimefable",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "96.65%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 1448,
     "timeDay": 1381,
     "timeWeek": 1248,
     "timeMonth": 1838,
     "timeYear": 1462,
     "dailyMinutesDown": {
-      "2025-10-27": 49,
+      "2025-10-27": 35,
       "2025-06-14": 32
     }
   },
@@ -82,9 +82,9 @@
     "url": "https://www.howtobebestman.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.howtobebestman.com.ico",
     "slug": "htbbm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -94,6 +94,7 @@
     "timeMonth": 703,
     "timeYear": 681,
     "dailyMinutesDown": {
+      "2025-10-27": 0,
       "2025-06-05": 19
     }
   }
