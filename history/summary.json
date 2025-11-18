@@ -4,19 +4,19 @@
     "url": "https://ntorres.dev",
     "icon": "https://icons.duckduckgo.com/ip3/ntorres.dev.ico",
     "slug": "ntorres-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 620,
-    "timeDay": 483,
-    "timeWeek": 562,
-    "timeMonth": 549,
-    "timeYear": 617,
+    "time": 619,
+    "timeDay": 380,
+    "timeWeek": 513,
+    "timeMonth": 536,
+    "timeYear": 616,
     "dailyMinutesDown": {
-      "2025-11-18": 7
+      "2025-11-18": 0
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://bedtimefable.ai",
     "icon": "https://icons.duckduckgo.com/ip3/bedtimefable.ai.ico",
     "slug": "bedtimefable",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.99%",
-    "time": 1441,
-    "timeDay": 705,
-    "timeWeek": 1190,
-    "timeMonth": 1313,
-    "timeYear": 1464,
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
+    "time": 1440,
+    "timeDay": 809,
+    "timeWeek": 1171,
+    "timeMonth": 1305,
+    "timeYear": 1463,
     "dailyMinutesDown": {
-      "2025-11-18": 7,
+      "2025-11-18": 14,
       "2025-10-27": 35,
       "2025-06-14": 32
     }
@@ -87,9 +87,9 @@
     "slug": "htbbm",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 678,
     "timeDay": 534,
@@ -97,7 +97,6 @@
     "timeMonth": 697,
     "timeYear": 685,
     "dailyMinutesDown": {
-      "2025-11-18": 7,
       "2025-06-05": 19
     }
   }
