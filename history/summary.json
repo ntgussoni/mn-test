@@ -4,19 +4,19 @@
     "url": "https://ntorres.dev",
     "icon": "https://icons.duckduckgo.com/ip3/ntorres.dev.ico",
     "slug": "ntorres-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 619,
-    "timeDay": 380,
-    "timeWeek": 513,
-    "timeMonth": 536,
+    "timeDay": 439,
+    "timeWeek": 528,
+    "timeMonth": 539,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2025-11-18": 6
+      "2025-11-18": 18
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://bedtimefable.ai",
     "icon": "https://icons.duckduckgo.com/ip3/bedtimefable.ai.ico",
     "slug": "bedtimefable",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
     "time": 1438,
-    "timeDay": 678,
-    "timeWeek": 1082,
-    "timeMonth": 1277,
+    "timeDay": 889,
+    "timeWeek": 1141,
+    "timeMonth": 1289,
     "timeYear": 1460,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 12,
       "2025-10-27": 35,
       "2025-06-14": 32
     }
@@ -67,19 +67,19 @@
     "url": "https://www.maidofhonorspeech.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.maidofhonorspeech.net.ico",
     "slug": "mh",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 748,
-    "timeDay": 223,
-    "timeWeek": 608,
-    "timeMonth": 717,
+    "timeDay": 409,
+    "timeWeek": 627,
+    "timeMonth": 719,
     "timeYear": 763,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 12
     }
   },
   {
@@ -89,17 +89,17 @@
     "slug": "htbbm",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 677,
     "timeDay": 437,
     "timeWeek": 605,
     "timeMonth": 682,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 12,
       "2025-06-05": 19
     }
   }
