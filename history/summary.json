@@ -4,17 +4,17 @@
     "url": "https://ntorres.dev",
     "icon": "https://icons.duckduckgo.com/ip3/ntorres.dev.ico",
     "slug": "ntorres-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
     "uptimeDay": "90.20%",
     "uptimeWeek": "98.60%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
-    "time": 618,
-    "timeDay": 429,
-    "timeWeek": 509,
-    "timeMonth": 533,
-    "timeYear": 615,
+    "time": 617,
+    "timeDay": 394,
+    "timeWeek": 483,
+    "timeMonth": 523,
+    "timeYear": 614,
     "dailyMinutesDown": {
       "2025-11-18": 141
     }
