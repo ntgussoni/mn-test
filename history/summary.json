@@ -24,18 +24,19 @@
     "url": "https://bedtimefable.com",
     "icon": "https://icons.duckduckgo.com/ip3/bedtimefable.com.ico",
     "slug": "bedtimefable-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 301,
-    "timeDay": 260,
+    "timeDay": 264,
     "timeWeek": 266,
     "timeMonth": 297,
     "timeYear": 306,
     "dailyMinutesDown": {
+      "2025-11-23": 0,
       "2025-08-31": 60,
       "2025-08-29": 20
     }
