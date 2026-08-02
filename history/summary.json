@@ -55,11 +55,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bedtimefable.ai.ico",
     "slug": "bedtimefable",
     "status": "down",
-    "uptime": "86.53%",
+    "uptime": "86.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.04%",
+    "uptimeYear": "74.88%",
     "time": 1576,
     "timeDay": 0,
     "timeWeek": 0,
@@ -74,7 +74,7 @@
       "2026-03-10": 23,
       "2026-04-22": 55,
       "2026-04-29": 136,
-      "2026-08-02": 174,
+      "2026-08-02": 989,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -196,9 +196,9 @@
     "url": "https://www.howtobebestman.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.howtobebestman.com.ico",
     "slug": "htbbm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.91%",
@@ -214,7 +214,8 @@
       "2026-04-29": 34,
       "2026-06-04": 90,
       "2026-06-14": 31,
-      "2026-07-09": 96
+      "2026-07-09": 96,
+      "2026-08-02": 0
     }
   }
 ]
