@@ -59,7 +59,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "71.32%",
+    "uptimeYear": "71.31%",
     "time": 1582,
     "timeDay": 0,
     "timeWeek": 0,
@@ -74,7 +74,7 @@
       "2026-03-10": 23,
       "2026-04-22": 55,
       "2026-04-29": 136,
-      "2026-08-15": 986,
+      "2026-08-15": 1023,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -209,17 +209,17 @@
     "url": "https://www.howtobebestman.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.howtobebestman.com.ico",
     "slug": "htbbm",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "99.84%",
+    "uptimeDay": "95.41%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "98.97%",
+    "uptimeYear": "99.83%",
     "time": 826,
-    "timeDay": 10958,
-    "timeWeek": 4574,
-    "timeMonth": 1557,
-    "timeYear": 892,
+    "timeDay": 8861,
+    "timeWeek": 4201,
+    "timeMonth": 1528,
+    "timeYear": 891,
     "dailyMinutesDown": {
       "2025-11-18": 148,
       "2025-11-23": 37,
@@ -230,7 +230,7 @@
       "2026-07-09": 96,
       "2026-08-02": 63,
       "2026-08-06": 322,
-      "2026-08-15": 29
+      "2026-08-15": 66
     }
   }
 ]
